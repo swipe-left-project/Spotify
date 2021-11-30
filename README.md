@@ -8,7 +8,7 @@
 
 ## Methdology
 
-insert flowchart
+![Methodology Flowchart](/../main/spotify@1.5x.png)
 
 ### Playlists considered: Pop Urbaine, Who We Be, GrandHit
 
