@@ -1,4 +1,4 @@
-# Spotify
+# Decoding Biases in AI: Final Porject
 
 ## Introduction
 
@@ -20,7 +20,7 @@ We have represented our methodology in the flowchart presented and we will expla
 
 ## Analysis
 
-All of our analysis is conducted in the following notebook: [Link](https://colab.research.google.com/drive/1w99D_v5jLEBoDnfZvAtqSLsCKjXunA2l?usp=sharing)
+All of our analysis is conducted in the following notebook: [Spotify Data Analysis](https://colab.research.google.com/drive/1w99D_v5jLEBoDnfZvAtqSLsCKjXunA2l?usp=sharing)
 The link above gives you the ability to comment on the notebook. The datasheets required to run the code have also been uploaded to this respository.
 
 ## Discussion
