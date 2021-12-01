@@ -12,7 +12,7 @@ This contradiction between Deezer and Spotify France reflects the intrinsic diff
 \
 \
 Our research aims at contributing to this debate by interrogating the implications of the use of the label “urban” on Spotify France, and on its recommendation algorithm. Our findings show that the use of such broad catch-all categories leads to a heightened competition between artists, making it harder for niche and independent artists to be recommended by algorithm to the average user. This dynamic sets the pop urbaine genre apart from more specific genres in France, but also from countries in which Spotify has attempted to develop a more specific, comprehensive and fine grained understanding of the local music scene. Ultimately, this phenomenon results in the promotion of a select few well-established artists, and impedes Spotify’s mission to enable the listener to discover new artists. More substantively, specific and precise labelling is more conducive to the emergence and discovery of new, independent and nicher artists, and enables a proper understanding and account of the evolution of musical phenomena among young artists of color.
-\
+
 
 ## Context
 
