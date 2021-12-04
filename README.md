@@ -1,4 +1,4 @@
-# Decoding Biases in AI: Final Porject
+
 # *How are Artists Affected by Spotify's Genre Classification? A Comparative Study between French and British Playlists Produced by Spotify*
 
 ## Introduction
