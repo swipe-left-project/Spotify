@@ -13,8 +13,7 @@ The debate in France is focused on the category ‘pop urbaine’ which is used 
 \
 \
 Our study is thus guided by the question **How are artists affected by Spotify’s genre classification?**, looking specifically at the case of France. It aims to contribute to this debate by investigating the implications of the use of the label ‘urban’ by Spotify France and in its music recommendation algorithm. Our findings show that the use of such broad catch-all categories leads to an unnecessarily heightened competition between artists, making it harder for niche and independent artists to be recommended by the algorithm to users. This sets the pop urbaine genre apart from more specific genres on Spotify France, but also from countries in which Spotify has attempted to develop a more specific, comprehensive and fine-grained understanding of the local music scene. Ultimately, this phenomenon results in the promotion of a select few well-established artists, and prevents Spotify from enabling the listener to discover new artists. Most significantly, specific and precise labelling is imperative for the emergence and discovery of new, independent, and nicher artists, and allows for a proper understanding and account of the evolution of music amongst young artists of colour.
-\
-\
+
 
 ## Context
 
