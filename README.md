@@ -1,5 +1,7 @@
 
-# *How are Artists Affected by Spotify's Genre Classification? A Comparative Study between French and British Playlists Produced by Spotify*
+# *How are Artists Affected by Spotify's Genre Classification? 
+
+# A Comparative Study between French and British Playlists Produced by Spotify*
 
 ## Introduction
 
