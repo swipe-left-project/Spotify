@@ -127,6 +127,8 @@ Lemaître, F. (2020). L’histoire du terme ''musique urbaine'' et pourquoi il d
 
 Lewis, S. (2020). Grammy awards renames controversial "urban" category. CBS News. https://www.cbsnews.com/news/grammy-awards-rename-controversial-urban-category/ [Accessed 3 December 2021].
 
+Masters of Media  (2021) “Do fans also like…”? — in what ways do big artists profit from Spotify’s recommendation system. Available at https://mastersofmedia.hum.uva.nl/blog/2021/10/29/do-fans-also-like-in-what-ways-do-big-artists-profit-from-spotifys-recommendation-system/
+
 Melchiorre, A. B., & Schedl, M. (2020). ‘Personality correlates of music audio preferences for modelling music listeners.’ Proceedings of the 28th ACM Conference on User Modeling, Adaptation and Personalization: 313-317.
 
 Middlebrook, K., & Sheik, K. (2019). ‘Song hit prediction: Predicting billboard hits using spotify data.’ arXiv preprint arXiv:1908.08609. Available at: https://arxiv.org/abs/1908.08609 
