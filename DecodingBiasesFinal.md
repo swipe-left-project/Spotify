@@ -4,6 +4,7 @@
 # *A Comparative Study between French and British Playlists Produced by Spotify*
 
 Hanna AGBANRIN • Ziyu DENG • Yuzhe LIU • Toshali SENGUPTA • Fabian Bi Sheng SIAU
+5 December, 2021
 
 ## Introduction
 
