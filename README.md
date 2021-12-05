@@ -3,6 +3,8 @@
 
 # *A Comparative Study between French and British Playlists Produced by Spotify*
 
+Hanna AGBANRIN • Ziyu DENG • Yuzhe LIU • Toshali SENGUPTA • Fabian Bi Sheng SIAU
+
 ## Introduction
 
 On 5th June 2020, Republic Records, an entity within Universal Music Records, announced that they would ‘remove “urban” from the label’s verbiage in describing departments, employee titles and music genres’ (Aswad, 2020). This announcement came in the midst of a nation-wide conversation around systemic racism in the United States after the death of George Floyd, Ahmaud Arbery, and Breonna Tyler. #TheShowMustBePaused and Blackout Tuesday movements notably demanded that the music industry take accountability for its disparate treatment of Black artists, by ‘protecting and empowering the black communities that have made them disproportionately wealthy in ways that are measurable and transparent’ (idem). Republic Records was the first of many actors within the American music ecosystem to adopt such a measure and was notably followed by the National Academy for Recording Arts and Sciences which organises the Grammy Awards. The National Academy decided to undertake a similar change and substitute the category ‘Best Urban Contemporary Album’' for ‘Best Progressive R&B Album’ (Lewis, 2020). This change was presented as a way to ‘appropriately categorize and describe this subgenre’ and ultimately use ‘a more accurate definition to describe the merit or characteristics of music compositions or performances themselves within the genre of R & B’' (idem).
